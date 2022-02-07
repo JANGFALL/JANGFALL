@@ -2,7 +2,7 @@
 - 👀 I’m interested in data, movie
 - 🌱 I’m currently learning information statistics and data science
 - 💞️ My goal for this year is 
-- first : to get a license (SQL, 사회조사분석사, ADsP)
+- first : to get a license (SQL, 사회조사분석사)
 - second : getting experience with the job boot camp project
 - third : Applying for an internship
 - forth : getting good grades in the department (up 4.0)
