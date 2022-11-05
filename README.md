@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @JANGFALL
-- 👀 I’m interested in data, movie
 - 🌱 I’m currently learning information statistics and data science
 - 💞️ My goal for this year is 
-- first : to get a license (SQL, 사회조사분석사)
+- first : to get a license (SQL, TOIEC, ADSP etc..)
 - second : getting experience with the job boot camp project
 - third : Applying for an internship
 - forth : getting good grades in the department (up 4.0)
-- 📫 How to reach me ... is seecret
 - 🔴 The words that should always be kept in mind
 - first : 마감시한이 있는 꿈이 목표이다. 계획을 세우고 기다리는 것이 아니라 지켜야한다.
 - second : 좋아하는 것들만 찾아서 하는게 아니라 절제를 하고 조절을 해야한다.
